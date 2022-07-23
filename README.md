@@ -5,10 +5,10 @@
     
 
 ## Github Repository:👉
-
+  https://manishahase.github.io/Photographic-Page/
 
 ## Host Link:👉
-
+  https://earnest-sawine-ebde45.netlify.app
 
 ## Project-Overview:🎦
 
